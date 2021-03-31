@@ -4,7 +4,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/samuel-soares-403193123/" target="_blank" >
-    <img alt="Linkedin - Cadu Castanha" src="https://img.shields.io/badge/Linkedin--%23F8952D?style=social&logo=linkedin">
+    <img alt="Linkedin - Samuel Soares" src="https://img.shields.io/badge/Linkedin--%23F8952D?style=social&logo=linkedin">
   </a>
   <a href="mailto:samuelsoares179@gmail.com" target="_blank" >
     <img alt="Email - Samuel Soares" src="https://img.shields.io/badge/Email--%23F8952D?style=social&logo=gmail">
