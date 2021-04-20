@@ -2,6 +2,12 @@
    Samuel Soares
 </h1>
 
+ <div>
+  <a href="https://github.com/samuelsoarees">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelsoarees&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelsoarees&layout=compact&langs_count=8&theme=dracula"/>
+<div>
+
 <p>
   <a href="https://www.linkedin.com/in/samuel-soares-403193123/" target="_blank" >
     <img alt="Linkedin - Samuel Soares" src="https://img.shields.io/badge/Linkedin--%23F8952D?style=social&logo=linkedin">
