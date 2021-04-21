@@ -5,7 +5,7 @@
 <p>
  Desenvolvedor desde 2017 na <a class="user-mention" data-hovercard-type="user" data-hovercard-url="/users/ow7/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/santanasoft">@santanasoft</a>, tive o primeiro contato com programação em 2015 no curso técnico do IFPE. <br /> Em 2017 participei do meu primeiro  hackathon, o Hack A City, com minha equipe ficando em terceiro lugar com o projeto Recicle+. 
    <br/><br />
-   Apaixonado por programação, pela área que estou hoje: desenvolvimento de aplicações mobile. 
+   Apaixonado por programação, e pela área que estou hoje: desenvolvimento de aplicações mobile. 
 </p>
 <p>
    Com experiência de 3 anos com o Delphi, Firebird e Rest, hoje estou focado em utilizar o firemonkey para desenvolvimento de aplicações mobile.
