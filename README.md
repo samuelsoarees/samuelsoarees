@@ -8,7 +8,7 @@
    Apaixonado por programação, e pela área que estou hoje: desenvolvimento de aplicações mobile. 
 </p>
 <p>
-   Com experiência de 3 anos com o Delphi, Firebird e Rest, hoje estou focado em utilizar o firemonkey para desenvolvimento de aplicações mobile.
+   Com experiência de 4 anos com o Delphi, Firebird e Rest, hoje estou focado em utilizar o firemonkey para desenvolvimento de aplicações mobile.
 </p>
 
  <div>
