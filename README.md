@@ -13,8 +13,8 @@
 
  <div>
   <a href="https://github.com/samuelsoarees">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelsoarees&show_icons=true&theme=react&include_all_commits=true&count_private=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelsoarees&layout=compact&langs_count=8&theme=react&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelsoarees&show_icons=true&theme=react&include_all_commits=true&count_private=true&bg_color=0D1117&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelsoarees&layout=compact&langs_count=8&theme=react&bg_color=0D1117&hide_border=true"/>
 <div>
  
    <div>
